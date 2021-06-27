@@ -6,9 +6,16 @@
   "scripts": {
     "test": "node index.js"
   },
+  "repository": {
+    "url": "https://github.com/Volrize/lax.db"
+  },
   "keywords": [
-    "lax.db"
+    "lax.db",
+    "laxdb",
+    "laxdev",
+    "lax-dev"
   ],
+  
   "author": "Kerem",
   "license": "ISC"
 }
