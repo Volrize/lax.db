@@ -4,9 +4,9 @@
 
 ## Linkler
 
-- [Documentation](https://volrize.gitbook.io/lax-db/)
-- [NPM page]()
-- [GitHub page](https://github.com/Volrize/lax.db)
+- [Dosc](https://volrize.gitbook.io/lax-db/)
+- [NPM Sayfası]()
+- [GitHub Sayfası](https://github.com/Volrize/lax.db)
 
 ## Destek
 
