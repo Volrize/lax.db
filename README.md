@@ -1,5 +1,5 @@
 # lax.db
-![npm downloads](https://img.shields.io/npm/dt/efdb)
+![npm downloads](https://img.shields.io/npm/dt/lax.db)
 + Türkçe Destekli .json Tabanllı DataBase Modülü
 
 ## Linkler
