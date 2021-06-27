@@ -5,7 +5,7 @@
 ## Linkler
 
 - [Dosc](https://volrize.gitbook.io/lax-db/)
-- [NPM Sayfası]()
+- [NPM Sayfası](https://www.npmjs.com/package/lax.db)
 - [GitHub Sayfası](https://github.com/Volrize/lax.db)
 
 ## Destek
