@@ -1,0 +1,14 @@
+{
+  "name": "lax.db",
+  "version": "1.0.0",
+  "description": ".json Tabanlı Database Modülü",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "lax.db"
+  ],
+  "author": "Kerem",
+  "license": "ISC"
+}
